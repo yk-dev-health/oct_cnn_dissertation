@@ -1,0 +1,34 @@
+[split1] Train: 70, Test: 28
+Found 70 files belonging to 2 classes.
+Found 28 files belonging to 2 classes.
+F1-score: 0.5385
+
+Image-level classification results:
+FP: RE_002-007_005.jpg
+FP: RE_002-007_006.jpg
+TN: RE_002-007_007.jpg
+TN: RE_002-007_008.jpg
+FP: RE_002-007_009.jpg
+FP: RE_002-007_010.jpg
+FP: RE_002-007_011.jpg
+TN: RE_004-002_028.jpg
+TN: RE_004-002_029.jpg
+TN: RE_004-002_030.jpg
+TN: RE_004-002_031.jpg
+TN: RE_004-002_032.jpg
+TN: RE_004-002_033.jpg
+TN: RE_004-002_034.jpg
+TP: LE_004-003027.jpg
+TP: LE_004-003028.jpg
+TP: LE_004-003029.jpg
+TP: LE_004-003030.jpg
+TP: LE_004-003031.jpg
+TP: LE_004-003032.jpg
+TP: LE_004-003033.jpg
+FN: RE_002-008_009.jpg
+FN: RE_002-008_010.jpg
+FN: RE_002-008_011.jpg
+FN: RE_002-008_012.jpg
+FN: RE_002-008_013.jpg
+FN: RE_002-008_014.jpg
+FN: RE_002-008_015.jpg
