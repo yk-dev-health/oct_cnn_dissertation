@@ -11,7 +11,7 @@ def main(target_name):
     os.makedirs(save_dir, exist_ok=True)
     base_dir = f"./data/{target_name.lower()}_split_into_two_groups"
 
-    # Prebuild augmentation layers
+    # Prebuild augmentation layers to save time during training
     augmentation_cache = {cfg: build_augmentation_layer(*cfg) for cfg in augmentation_configs}
 
     # Model selection
